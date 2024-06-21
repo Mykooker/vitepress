@@ -12,7 +12,7 @@ hero:
       link: /docs/use
     - theme: alt
       text: 常见故障
-      link: /docs/api-examples
+      link: /docs/qa
 
 features:
   - title: 一键新机
