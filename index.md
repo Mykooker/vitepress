@@ -23,6 +23,6 @@ features:
   - title: 通知
     details: 此处显示最近的通知
   - title: 客服
-    details: 右下角直接联系
+    details: 10:00-22：00
 ---
 
