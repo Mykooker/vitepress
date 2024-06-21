@@ -8,10 +8,10 @@ hero:
   tagline: 你需要的和不需要的都在这里。
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 使用说明
       link: /docs/markdown-examples
     - theme: alt
-      text: API Examples
+      text: 常见故障
       link: /docs/api-examples
 
 features:
