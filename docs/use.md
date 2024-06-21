@@ -9,7 +9,7 @@
 **注册地址**
 
 ````
-[点击注册](https://www.moyunteng.com/pc/register.html?v=1.0)
+https://www.moyunteng.com/pc/register.html?v=1.0
 
 ````
 
@@ -17,7 +17,7 @@
 
 ````
 1.严禁非法黑灰产，后果自负。
-2.上传文件不可通过浏览器在网页拖拉，请在云手机里直接网页下载或网盘下载。
+2.
 3.如果违反1和2，直接禁用账号不退款，如涉嫌违法必要时将配合有关部门取证。
 
 ````
@@ -29,32 +29,6 @@
 3.如果违反1和2，直接禁用账号不退款，如涉嫌违法必要时将配合有关部门取证。
 
 ````
-
-## Custom Containers
-
-**Input**
-
-```md
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-```
 
 **Output**
 
@@ -77,7 +51,3 @@ This is a dangerous warning.
 ::: details
 This is a details block.
 :::
-
-## More
-
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
