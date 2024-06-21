@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "云机使用手册"
-  text: "请仔细阅读"
+  name: "云机帮助中心"
+  text: ""
   tagline: 你需要的和不需要的都在这里。
   actions:
     - theme: brand
@@ -15,11 +15,11 @@ hero:
       link: /docs/api-examples
 
 features:
-  - title: Feature A
+  - title: 一键新机
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: 无限备份
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: 专线独享
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
