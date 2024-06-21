@@ -25,12 +25,6 @@ a，截图发给脚本的提供者(开发者)
 
 ```
 
-<script setup>
-import { useData } from 'vitepress'
-
-const { site, theme, page, frontmatter } = useData()
-</script>
-
 # 技术支持
 
 工作时间:8:00-24:00
