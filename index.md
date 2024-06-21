@@ -13,8 +13,8 @@ hero:
     - theme: alt
       text: 使用说明
       link: /docs/book
-    - theme: brand
-      text: alt
+    - theme: alt
+      text: 常见故障
       link: /docs/qa   
 
 features:
