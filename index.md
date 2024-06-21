@@ -8,11 +8,14 @@ hero:
   tagline: 你需要的和不需要的都在这里
   actions:
     - theme: brand
-      text: 使用说明
+      text: 如何购买
       link: /docs/use
     - theme: alt
+      text: 使用说明
+      link: /docs/book
+    - theme: brand
       text: 常见故障
-      link: /docs/qa
+      link: /docs/qa   
 
 features:
   - title: 一键新机
