@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "云机用户首次"
+  name: "云机用户手册"
   text: ""
-  tagline: 你需要的和不需要的都在这里。
+  tagline: 你需要的和不需要的都在这里
   actions:
     - theme: brand
       text: 使用说明
