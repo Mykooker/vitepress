@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Hello World VitePress"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "云机使用手册"
+  text: "请仔细阅读"
+  tagline: 你需要的和不需要的都在这里。
   actions:
     - theme: brand
       text: Markdown Examples
