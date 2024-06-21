@@ -14,7 +14,7 @@ hero:
       text: 使用说明
       link: /docs/book
     - theme: brand
-      text: 常见故障
+      text: alt
       link: /docs/qa   
 
 features:
