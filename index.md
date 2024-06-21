@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 使用说明
-      link: /docs/markdown-examples
+      link: /docs/use
     - theme: alt
       text: 常见故障
       link: /docs/api-examples
