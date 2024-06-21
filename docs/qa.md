@@ -33,7 +33,5 @@ const { site, theme, page, frontmatter } = useData()
 
 # 技术支持
 
-客服工作时间:8:00-24:00
-微信：
-QQ：
-或右下角在线客服
+工作时间:8:00-24:00
+
