@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "云机帮助中心"
-  text: "清仔细阅读"
+  name: "云机用户首次"
+  text: ""
   tagline: 你需要的和不需要的都在这里。
   actions:
     - theme: brand
