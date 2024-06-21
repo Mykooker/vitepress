@@ -18,11 +18,11 @@ hero:
       link: /docs/qa   
 
 features:
-  - title: 一键新机
-    details: 用过的都说好用
-  - title: 无限备份
-    details: 租赁整机解锁无限备份
-  - title: SVIP权益
-    details: 专线独享让你又快又稳
+  - title: 活动
+    details: 社群团购可享9折
+  - title: 通知
+    details: 此处显示最近的通知
+  - title: 客服
+    details: 右下角直接联系
 ---
 
