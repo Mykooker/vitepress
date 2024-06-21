@@ -23,24 +23,3 @@ https://www.moyunteng.com/pc/register.html?v=1.0
 注：如电脑浏览器无法获取验证码，请在手机上关闭WiFi后注册
 ````
 
-**Output**
-
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
