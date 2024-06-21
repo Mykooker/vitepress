@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "云机帮助中心"
-  text: ""
+  text: "清仔细阅读"
   tagline: 你需要的和不需要的都在这里。
   actions:
     - theme: brand
