@@ -53,10 +53,10 @@ This is a details block.
 :::
 
 ::: tip
-This is a tip.
+T粘贴内容到云机.
 :::
 
-::: warning
+::: w粘贴内容到
 This is a warning.
 :::
 
