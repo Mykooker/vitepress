@@ -14,12 +14,6 @@
 
 ````
 
-**注册地址**
-
-````
-https://www.moyunteng.com/pc/register.html?v=1.0
-
-````
 
 **购买流程**
 
@@ -27,6 +21,12 @@ https://www.moyunteng.com/pc/register.html?v=1.0
 1.根据对应的套餐，发支付宝口令红包。
 2.注册后，提供手机号。
 3.客服会在2-20分钟内完成云机交接,急单不接。
-注：如电脑浏览器无法获取验证码，请在手机上关闭WiFi后注册
 ````
 
+**注册地址**
+
+````
+https://www.moyunteng.com/pc/register.html?v=1.0
+
+注：如电脑浏览器无法获取验证码，请在手机上关闭WiFi后注册
+````
