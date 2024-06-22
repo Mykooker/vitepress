@@ -48,8 +48,8 @@ This is a details block.
 
 **Output**
 
-::: info
-This is an info box.
+::: 1.粘贴内容到云机
+点击电源键上面三个点，输入数字或字母内容后【发送文本】，输入文字内容后【设置剪贴板】后云机内右键粘贴
 :::
 
 ::: tip
