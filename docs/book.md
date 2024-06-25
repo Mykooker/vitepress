@@ -1,5 +1,5 @@
 
-## 使用小技巧
+## 使用技巧
 
 
 
@@ -18,8 +18,7 @@
 :::
 
 ::: danger
-大客户9折优惠: ST加速器注册链接 www.souta.com/?c=54879900
-可叠加官方活动享受折上折。
+代理推荐：9折专享，ST加速器注册链接 www.souta.com/?c=54879900
 :::
 
 ::: details
@@ -28,22 +27,6 @@ This is a details block.
 **Input**
 
 ```md
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
 ::: details
 This is a details block.
 :::
