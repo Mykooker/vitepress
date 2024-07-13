@@ -23,6 +23,6 @@ features:
   - title: 通知
     details: 暂无通知
   - title: 客服
-    details: 工作时间8:00-24:00
+    details: 工作时间9:00-23:00
 ---
 
