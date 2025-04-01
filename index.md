@@ -19,10 +19,10 @@ hero:
 
 features:
   - title: 活动
-    details: 社群团购联系专员对接
+    details: 工作室联系渠道经理对接
   - title: 通知
     details: 暂无通知
-  - title: 客服
-    details: 工作时间9:00-23:00
+  - title: 工作时间UTC+8
+    details: 13:00-23:00
 ---
 
